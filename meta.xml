@@ -1,0 +1,15 @@
+<meta>
+
+    <info author = 'uW33D' name = 'Sistema de som' version="1.0"/>
+    
+    <script src = "sMain.lua" type = "server"/>
+    <script src = "cMain.lua" type = "client"/>
+
+    <file src="Files/avatar.png"/>
+    <file src="Files/Fraud.png"/>
+    <file src="Files/Evidence.png"/>
+    <file src="Files/Updates.png"/>
+    <file src="Files/K2D.ttf"/>
+
+<min_mta_version server="1.5.7-9.20307" client="1.5.7-9.20307" />
+</meta>
